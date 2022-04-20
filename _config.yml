@@ -21,7 +21,7 @@ cusdis:
 
 user:
   name: jongchan-joseph-lee
-  pic: /assets/img/jongchan.jpg
+  pic: /assets/img/Jongchan.jpg
   picAlt: "Jongchan Lee"
   job: Personal blog
   aboutme: Hello World! # comment this out if you don't need the 'about' page.
